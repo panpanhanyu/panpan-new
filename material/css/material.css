@@ -2,7 +2,7 @@ body{
 	margin:0;
 	padding:0;
 	background-color:#f3f3f3;
-	font-family: "Microsoft YaHei", 微软雅黑, STXihei, 华文细黑, serif;
+	font-family: 'Noto Sans CJK KR',elvetica,Arial,sans-serif;
 	overflow:hidden;
 }
 .teacherdisplay,.studentdisplay{
@@ -803,7 +803,7 @@ background-color: #fafbfa
 .t_review_tips{
 	font-size: 15px;
 	color:rgb(102, 102, 102);
-	font-family: "Microsoft YaHei", 微软雅黑, STXihei, 华文细黑, serif;
+	font-family: 'Noto Sans CJK KR',elvetica,Arial,sans-serif;
 	font-weight: normal;
 }
 .t_eg_box{
@@ -1224,7 +1224,7 @@ background-color: #fafbfa
 .t_life_review_cn{
 	font-size: 16px;
 	margin-top:5px;
-	font-family: '微软雅黑'
+	font-family: 'Noto Sans CJK KR',elvetica,Arial,sans-serif
 }
 .t_page3_py{
 	display: none;

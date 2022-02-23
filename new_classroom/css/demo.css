@@ -13,7 +13,7 @@ body,
 
 body {
     margin: 5px;
-    font-family: "PingFang SC","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu;
+    font-family: 'Noto Sans CJK KR',elvetica,Arial,sans-serif;
 }
 
 .video_view {
