@@ -143,7 +143,7 @@
 }
 
 .swiper-button-prev,.swiper-container-rtl .swiper-button-next {
-	background-image: url("../img/left_s.png");
+	background-image: url("https://fastly.jsdelivr.net/gh/panpanhanyu/panpan-new/img/left_s.png");
 	left: 10px;
 	right: auto;
 	 background-size:100% 100%;
@@ -158,7 +158,7 @@
 }
 
 .swiper-button-next,.swiper-container-rtl .swiper-button-prev {
-	 background-image: url("../img/right_s.png");
+	 background-image: url("https://fastly.jsdelivr.net/gh/panpanhanyu/panpan-new/img/right_s.png");
 	right: 10px;
 	left: auto;
 	 background-size:100% 100%;
